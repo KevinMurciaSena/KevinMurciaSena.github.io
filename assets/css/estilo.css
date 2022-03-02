@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&family=Shizuru&family=Syne+Mono&display=swap');
+.titulo
+{
+  font-family:'Shizuru', cursive;
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-variant: lighter;
+}
+#parrafo
+{
+  background: rgb(255, 225, 213) ;
+  color: green;
+}
+
+#parrafo2 
+{
+  font-family: 'Hubballi', cursive;
+  font-weight: bold;
+}
+
+.subtitulo
+{
+  font-family: 'Syne Mono', monospace;
+  font-weight: bolder;
+  
+}
