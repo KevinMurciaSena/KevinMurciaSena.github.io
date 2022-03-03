@@ -1,0 +1,51 @@
+.bordes
+{
+    border-radius: 40%;
+    border: 5px solid green;
+    margin: 10px;
+}
+
+.bordes2
+{
+    border-top-left-radius: 30%;
+    border: 1px double red;
+}
+
+.bordes3
+{
+    border-left: 3px double rgb(53, 53, 0);
+    border-bottom: 5px dashed gray;
+}
+
+.bordes4
+{
+    height: 50px;
+    width: 50px;
+    border-bottom: 5px solid red;
+    border-top: 5px double rgb(0, 0, 0);
+    border-left: 5px dashed rgb(0, 255, 98);
+    border-right: 5px solid rgb(255, 0, 221);
+    padding: 100px;
+    border-bottom-left-radius: 300px;
+    border-top-left-radius: 500px;
+    border-bottom-right-radius: 00px;
+    border-top-right-radius: 500px;
+    font-size: 15px;
+    
+}
+
+.parrafo3
+{
+    
+    border-bottom: 5px solid red;
+    border-top: 5px double rgb(0, 0, 0);
+    border-left: 5px dashed rgb(0, 255, 98);
+    border-right: 5px solid rgb(255, 0, 221);
+    padding: 100px;
+    border-bottom-left-radius: 50%;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-top-right-radius: 50%;
+    font-size: 30px;
+   
+}

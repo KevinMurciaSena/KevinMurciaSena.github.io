@@ -1,0 +1,82 @@
+.encabezados
+{
+    font-family: arial,sans-;
+    font-weight: bolder;
+    word-spacing: 1px;
+    letter-spacing: 3px;
+}
+
+.encabezado2
+{
+    margin-left: 300px;
+    margin-right: 300px;
+    font-weight: bolder;
+    font-family: arial,sans-;
+    color: white;
+    padding-left: 10px;
+    background-color: gray;
+    
+}
+
+.imagen2
+{
+    width: 7%;
+    padding-left: 375px;
+    text-align: left;
+}
+
+.imagen
+{
+    width: 5%;
+    padding-left: 390px;
+    text-align: left;
+}
+
+.texto
+{
+    text-indent: 30px;
+    font-weight: bold;
+    font-size: 15px;
+    padding-right:460px;
+    font-family: arial,sans-;
+    text-align: justify;
+  
+  
+}
+
+.texto2
+{ 
+    text-align: justify;
+    /*alinear texto*/
+    text-indent: 30px;
+     /*separar texto*/
+    font-weight: bold;
+     /*peso de la fuente*/
+    font-size: 15px;
+     /*tamaño*/
+    padding-right:460px;
+     /*acomoda texto*/
+    padding-left: 500px;
+     /*acomodar texto*/
+    font-family: arial,sans-;
+  
+}
+
+.rojo
+{
+    color: red;
+}
+
+strong
+{
+    font-weight:none;
+    font-style: italic;
+    color:red;
+}
+
+mark
+{
+    font-weight: bolder;
+    background-color: white;
+    color:black;
+}

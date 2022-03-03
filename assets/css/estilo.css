@@ -1,27 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&family=Shizuru&family=Smooch+Sans:wght@100&family=Syne+Mono&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Hubballi&family=Shizuru&family=Syne+Mono&display=swap');
+
 .titulo
 {
-  font-family:'Shizuru', cursive;
-  font-size: 1.5rem;
+  font-family: 'Smooch Sans', sans-serif;
+  font-size: 2rem;
   font-weight: bold;
-  font-variant: lighter;
+  font-weight: 700;
+  text-align: center;
+  text-shadow: rgb(255, 146, 119) 2px 2px;
+  
+  
+  
 }
 #parrafo
 {
   background: rgb(255, 225, 213) ;
   color: green;
+  text-shadow: rgb(255, 146, 119) 2px 2px;
+  margin: 1px black;
+  border: 1px solid black;
+  border-radius: 40%;
 }
 
 #parrafo2 
 {
+
   font-family: 'Hubballi', cursive;
   font-weight: bold;
+  font-variant: small;
+  text-decoration: line-through;
+  text-shadow: rgb(255, 146, 119) 2px 2px;
+  padding-left:10px;
+  padding-right:10px;
+  margin: 1px black;
+  border: 1px solid black;
+  word-spacing: 5px;
+
 }
 
 .subtitulo
 {
+  text-align: center;
   font-family: 'Syne Mono', monospace;
   font-weight: bolder;
+  text-decoration: underline;
+  text-shadow: rgb(255, 146, 119) 2px 2px;
   
 }
+
+.imagen
+{
+  text-align: center;
+  text-shadow: rgb(255, 146, 119) 2px 2px;
+}
+
+.subtitulo2
+{
+  font-family: 'Syne Mono', monospace;
+  font-weight: bolder;
+  text-decoration: overline;
+  text-shadow: rgb(255, 146, 119) 2px 2px;
+  
+}
+
+.link
+{
+  text-decoration: none;
+  
+}
+
+A
+{ 
+  text-decoration: none;
+}
+
+p
+{
+  word-spacing: 2px;
+}
+.sopa
+{
+  background-color: rgb(255,0,255);
+}
+
